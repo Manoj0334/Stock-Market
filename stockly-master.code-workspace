@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Stock-Market",
+			"path": "src/Stock-Market"
+		}
+	],
+	"settings": {}
+}
